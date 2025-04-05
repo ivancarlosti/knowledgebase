@@ -8,7 +8,8 @@
 [![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/knowledgebase?label=Issues&color=orange)](https://github.com/ivancarlosti/knowledgebase/issues)
 [![License](https://img.shields.io/github/license/ivancarlosti/knowledgebase?label=License)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/knowledgebase/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/knowledgebase/tree/main?tab=coc-ov-file)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/knowledgebase/tree/main?tab=coc-ov-file)  
+[![deploy](https://github.com/ivancarlosti/knowledgebase/actions/workflows/deploy.yml/badge.svg)](https://github.com/ivancarlosti/knowledgebase/actions/workflows/deploy.yml.yml)
 
 ---
 
