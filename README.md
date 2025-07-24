@@ -1,15 +1,15 @@
 # knowledgebase
 
 <!-- buttons -->
-[![Stars](https://img.shields.io/github/stars/ivancarlosti/.github?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/.github/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/.github?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
-[![Forks](https://img.shields.io/github/forks/ivancarlosti/.github?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/.github?label=Last%20Commit)](https://github.com/ivancarlosti/.github/commits)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/.github?label=Activity)](https://github.com/ivancarlosti/.github/pulse)  
-[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/.github?label=Issues&color=orange)](https://github.com/ivancarlosti/.github/issues)
-[![License](https://img.shields.io/github/license/ivancarlosti/.github?label=License)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/.github/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/.github?tab=coc-ov-file)
+[![Stars](https://img.shields.io/github/stars/ivancarlosti/knowledgebase?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/knowledgebase/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/knowledgebase?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
+[![Forks](https://img.shields.io/github/forks/ivancarlosti/knowledgebase?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/knowledgebase?label=Last%20Commit)](https://github.com/ivancarlosti/knowledgebase/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/knowledgebase?label=Activity)](https://github.com/ivancarlosti/knowledgebase/pulse)  
+[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/knowledgebase?label=Issues&color=orange)](https://github.com/ivancarlosti/knowledgebase/issues)
+[![License](https://img.shields.io/github/license/ivancarlosti/knowledgebase?label=License)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/knowledgebase/security)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/knowledgebase?tab=coc-ov-file)
 <!-- endbuttons -->
 
 <!-- footer -->
@@ -31,13 +31,10 @@
 [![Threads](https://img.shields.io/badge/Threads-@ivancarlos-808080)](https://threads.net/@ivancarlos)
 [![X](https://img.shields.io/badge/X-@ivancarlos-000000)](https://x.com/ivancarlos)  
 [![Discord](https://img.shields.io/badge/Discord-@ivancarlos.me-5865F2)](https://discord.com/users/ivancarlos.me)
-[![Signal](https://img.shields.io/badge/Signal-@ivancarlos.01-2592E9)](https://icc.gg/-signal)
+[![Signal](https://img.shields.io/badge/Signal-@ivancarlos.01-2592E9)](https://icc.gg/.signal)
 [![Telegram](https://img.shields.io/badge/Telegram-@ivancarlos-26A5E4)](https://t.me/ivancarlos)  
 [![Website](https://img.shields.io/badge/Website-ivancarlos.me-FF6B6B)](https://ivancarlos.me)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
-
-## 📃 License
-[MIT](LICENSE) © [Ivan Carlos][ivancarlos]
 
 [cc]: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
 [contributing]: https://docs.github.com/en/articles/setting-guidelines-for-repository-contributors
